@@ -1,0 +1,258 @@
+#L1 {
+	font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    letter-spacing: -0.025em;
+    font-size: 35px;
+    line-height: 44px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-left: 220px;
+    text-size-adjust: 100%;
+    font-weight: bold;
+    font-size: 2.1875rem;
+    line-height: 44px;
+    font-size: 1.8125rem;
+    font-weight: 600;
+    line-height: 38px;
+        font-family: "Basier Circle", sans-serif;
+    letter-spacing: -0.045em;
+    margin-top: 90px;
+    font-size: 2.1800rem;
+    line-height: 44px;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+}
+.B1 {
+
+	box-sizing: border-box;
+	position: absolute;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    color: rgb(82, 92, 102);
+    box-sizing: border-box;
+    outline: none;
+    line-height: 24px;
+    box-sizing: border-box;
+    margin: 8px 0px 0px;
+    padding: 0px;
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 220px;
+    position: absolute;
+    font-size: 17px;
+
+}
+#GS1 {
+    float:right;
+    object-fit: fill;
+    display: flex;
+    box-sizing: border-box;
+    margin: -35px -10px 0px;
+    height: auto;
+
+
+
+
+}
+html {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+#B2 {
+    box-sizing: border-box;
+    margin: 0px 12px 0px 0px;
+    padding: 0px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-stretch: inherit;
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    font-weight: 450;
+    font-size: 1.123rem;
+    line-height: 6;
+    letter-spacing: -0.025em;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin-left: 67.5%;
+    margin-top: -10px;
+
+}
+#BUTTON1{
+
+    position: absolute;
+      border-style: solid;
+    margin-left: 86%;
+        cursor: pointer;
+        margin-top: 25px;
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    display: block;
+    font-size: 20px;
+    font-color: white;
+    color: white;
+    border-width: thin;
+        white-space: nowrap;
+     border-radius: 12px;
+    box-sizing: border-box;
+    background: transparent;
+    border-color: white;
+    font-weight: 500;
+        font-size: 1.0625rem;
+    line-height: 1.41176;
+    letter-spacing: -0.025em;
+        text-align: center;
+        transition: opacity 300ms
+            display: flex;
+            padding: 7px 25px 7px 25px;
+
+   
+}
+#B3 {
+
+
+    position: absolute;
+    margin-left: 85%;
+}
+#ENG {
+
+
+}
+
+#U2 {
+
+    position: absolute;
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.41176;
+    letter-spacing: -0.025em;
+    height: 55px;
+    border: transparent;
+    cursor: pointer;
+    margin-top: 520px;
+    width: 376px;
+    margin-left: 220px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 16px;
+    color: rgb(255, 255, 255);
+    transition: background-color 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s, color 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s, opacity 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s, box-shadow 200ms cubic-bezier(0.4, 0.3, 0.8, 0.6) 0s;
+    box-shadow: rgb(6 102 235 / 12%) 0px 0.7rem 1.3rem 0px, rgb(6 102 235 / 24%) 0px 1rem 2.2rem 0px;
+    font-weight: 500;
+    text-align: center;
+    background-color: rgb(6, 102, 235);
+}
+#P1 {
+
+
+    box-sizing: border-box;
+    display: block;
+    width: 390px;
+    appearance: none;
+    height: 60px;
+    font: inherit;
+    color: inherit;
+    border: none;
+    background: none;
+    outline: none;
+    border-radius: 0px;
+    padding: 0px;
+    text-overflow: ellipsis;
+    position: absolute;
+    margin-top: 220px;
+    padding:1em;
+    margin-left: 405px;
+    overflow: hidden;
+    caret-color: rgb(6, 102, 235);
+    transition: background-color 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s, transform 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s;
+    color: rgb(130, 139, 148);
+    border-radius: 10px 10px 10px 10px;
+    text-align: left;
+    background-color: var(--rui-input-bg,#EDEEF0);
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+}
+
+#U1 {
+
+    position: absolute;
+    margin-top: 300px;
+
+}
+
+#english {
+
+    box-sizing: border-box;
+    position: absolute;
+    margin: 597px 1165px;;
+    padding: 0px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-stretch: inherit;
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+    font-weight: 400;
+    font-size: 1.0325rem;
+    line-height: 1.41176;
+    letter-spacing: -0.025em;
+}
+
+#GB {
+
+    position: absolute;
+    height: 30px;
+    border: thick;
+    border-color: black;
+    width: 30px;
+    margin-top: 594px;
+    margin-left: 1125px;
+    display: flex;
+    border-top-left-radius: 50% 50%;
+     border-top-right-radius: 50% 50%;
+      border-bottom-right-radius: 50% 50%;
+       border-bottom-left-radius: 50% 50%;
+}
+#bigboi {
+
+    position: absolute;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    appearance: none;
+    font: inherit;
+    color: inherit;
+    border: none;
+    background: none;
+    outline: none;
+    border-radius: 0px;
+    padding: 0px;
+    text-overflow: ellipsis;
+    text-align: left;
+        box-shadow: none;
+    margin: 100px 100px;
+        overflow: visible;
+}
+#P2 {
+box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 160px;   
+    appearance: none;
+    height: 60px;
+    font: inherit;
+    color: inherit;
+    border: none;
+    background: none;
+    outline: none;
+    border-radius: 0px;
+    padding: 0px;
+    text-overflow: ellipsis;
+    position: absolute;
+    margin-top: 220px;
+    padding:1em;
+    margin-left: 220px;
+    overflow: hidden;
+    caret-color: rgb(6, 102, 235);
+    transition: background-color 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s, transform 300ms cubic-bezier(0.15, 0.5, 0.5, 1) 0s;
+    color: rgb(130, 139, 148);
+    border-radius: 10px 10px 10px 10px;
+    text-align: left;
+    background-color: var(--rui-input-bg,#EDEEF0);
+    font-family: "Basier Circle", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, Arimo, sans-serif;
+}
